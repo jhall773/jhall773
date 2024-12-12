@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhall773
 - 👀 I’m interested in engineering stories to inspire and bring hope to others.
-- 🌱 I’m currently learning software engineering.
+- 🌱 I’m currently learning Software Engineering at St. Mary's University.
 
 <!---
 jhall773/jhall773 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
