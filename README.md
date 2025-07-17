@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jhall773
-- 👀 I’m interested in engineering software that assists, inspires, and/or brings hope to others. Whether it's designing smart systems to manage and communicate data or games with positive storylines and themes, I aspire to make an impact with code (by engineering it with structure) rather than just "write" it.
+- 👀 I’m interested in engineering software that assists, inspires, and/or brings hope to others. Whether it's designing smart systems to manage and communicate data or games with positive storylines and themes, I aspire to make an impact with code (by engineering it into creative applications with structure) rather than just simply "write" a program.
 - 🌱 I’m currently learning Software Engineering at St. Mary's University.
 
 <!---
